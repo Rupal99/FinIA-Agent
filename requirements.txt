@@ -1,0 +1,10 @@
+langgraph
+ipython
+typing_extensions
+dotenv
+langchain-mcp-adapters 
+langchain
+mcp
+tavily
+groq
+langchain_protocol
